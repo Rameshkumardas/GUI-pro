@@ -1,10 +1,6 @@
-from os import*
-import matplotlib.pyplot as plt
-import numpy as np
 from tkinter import*
 import wikipedia as wiki
 import tkinter as tk
-import pandas as pd
 from tkinter import font, colorchooser, filedialog, messagebox
 
 class Location_Finder:
